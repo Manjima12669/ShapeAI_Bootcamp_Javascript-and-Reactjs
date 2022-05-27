@@ -5,7 +5,9 @@ The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at 
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 </p>
 <h2>Here's the link for you to watch the sessions as well:</h2>
+<p>
 <a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulLetcbkthT0p_IzwgRAYbu"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-4.png?raw=true">Click the image to watch the video!</a>
+</p>
 <p>I got to have hands on experience on:
 <li><a href="https://www.javascript.com/">Javascript</a>
 <li><a href="https://html.com/">HTML</a>
